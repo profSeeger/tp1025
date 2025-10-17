@@ -1,2 +1,2 @@
-# tp1025
-This repo provides files for the Tableau Public Workshops taught by Professor Seeger.
+# Tableau Public Workshop 
+This repo provides files for the October 2025 Tableau Public Workshop taught by Professor Seeger.
